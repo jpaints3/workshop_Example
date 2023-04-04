@@ -148,7 +148,7 @@ d3.csv("iris.csv").then((data) => {
 
   // SECTION 4: Integral
   // S4 Part 1: Find the integral of the regression line
-  console.log(math.integral);
-  let regressionFunctionIntegral = math.integral(regressionFunction, "x");
-  console.log(`Regression Integral: ${regressionFunctionIntegral}`);
+  // console.log(math.integral);
+  // let regressionFunctionIntegral = math.integral(regressionFunction, "x");
+  // console.log(`Regression Integral: ${regressionFunctionIntegral}`);
 });
